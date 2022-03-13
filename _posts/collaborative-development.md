@@ -1,6 +1,5 @@
 ---
 title: "Collaborative Development"
-last_modified_at: 2022-03-12T15:34:30-04:00
 categories:
   - Blog
 tags:
