@@ -2,7 +2,9 @@
 title: "Collaborative Development"
 last_modified_at: 2022-03-013T16:20:02-05:00
 categories:
-  - artifact
+  - Blog
+tags:
+  - insight
 ---
 
 This post has been updated and should show a modified date if used in a layout.
