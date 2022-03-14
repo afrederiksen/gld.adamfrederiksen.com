@@ -7,4 +7,4 @@ title: "Key Insights"
 <br/>
 <a href="/insight/history-through-innovation">History through Innovation</a>
 <br/>
-<a href="/insight/gathering-perspective">Collaborative Development</a>
+<a href="/insight/gathering-perspective">Gathering Perspective</a>
