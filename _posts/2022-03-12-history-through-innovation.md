@@ -1,7 +1,7 @@
 ---
 title: "History Through Innovation"
 categories:
-  - Blog
+  - insight
 tags:
   - insight
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Development"
 categories:
-  - Blog
+  - insight
 tags:
   - insight
 ---

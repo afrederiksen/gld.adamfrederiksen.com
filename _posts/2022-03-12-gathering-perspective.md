@@ -1,7 +1,7 @@
 ---
 title: "Gathering Perspective"
 categories:
-  - Blog
+  - insight
 tags:
   - insight
 ---
