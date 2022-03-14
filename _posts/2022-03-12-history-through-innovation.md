@@ -1,5 +1,5 @@
 ---
-title: "History Through Innovation"
+title: "Insight: History Through Innovation"
 categories:
   - insight
 tags:

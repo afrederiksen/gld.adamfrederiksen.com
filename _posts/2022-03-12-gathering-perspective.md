@@ -1,5 +1,5 @@
 ---
-title: "Gathering Perspective"
+title: "Insight: Gathering Perspective"
 categories:
   - insight
 tags:

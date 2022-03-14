@@ -1,5 +1,5 @@
 ---
-title: "Collaborative Development"
+title: "Insight: Collaborative Development"
 categories:
   - insight
 tags:
@@ -17,6 +17,8 @@ tags:
 <p>My Internship Challenge Team on a Teams Call</p>
 <p><img src="https://gld.adamfrederiksen.com/assets/images/gld1-order.png" width="624" height="351"></p>
 <p>This is a screenshot from our application that shows the tipping, rating, and order process flow. Each of these components was developed using SCRUM developed by separating the parts of the development. The contributions were all then merged together to build the application after conducting code reviews.</p>
+[CSR Project](https://unbeleafables.github.io/){: .btn .btn--info}
+<p>This was a Corporate Social Responsibility project that I co-captained at Publicis Sapient. The project focused on environmentally friendly tips that were combined with an <a href="https://www.instagram.com/unbeleafablecsr/">Instagram account</a>. I led the technical aspects of this site which runs on the same platform as this website.</p>
 <p>I am doing a similar project in my CSCE 490 and CSCE 492 Capstone project where we are building a Recipe and Pantry application where users can input the ingredients in their pantry, and they can find recipes that use those ingredients to reduce food waste and to achieve their health goals. For this project, I am the project manager, so I am responsible for reviewing the work of my four other group members. I take this project seriously as it is a graduation requirement for all of my peers as each of the two semesters of the capstone course is only offered once a year. Being a project manager also requires thinking about all the necessary aspects of the project, so you know where to start. Having someone be the SCRUM manager is important to ensure that sprints are divided efficiently and that tasks are not prerequisite tasks that need to be completed. My role is to constantly evaluate the performance of each task and the necessary manpower behind it and refine the requirements as implementation continues. Ensuring that prerequisite tasks are completed in a timely manager requires constant communication with each group member. In our project, we communicate to narrow down features that integrate together. For example, the recipes need the ingredients to be integrated, so understanding the progress of the ingredients module is critical to further development. The principles from my CSCE 247 class and internship at Publicis have been fundamental in my ability to complete my project and work better with others. These practices of team development allow for a project of any size to be narrowed down to allow groups and the strengths of individual group members to succeed.</p>
 <p><br></p>
 <p><img src="https://gld.adamfrederiksen.com/assets/images/gld1-sprint-board.png" width="624" height="352"></p>
