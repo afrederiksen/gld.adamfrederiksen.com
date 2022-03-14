@@ -100,9 +100,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
 gallery:
   - url: /assets/images/gld3-parliament.jpg
-    image_path: /assets/images/
+    image_path: /assets/images/gld3-parliament.jpg
     alt: "My International Relations class meeting with Kristian Jensen, the former Danish Minister of Foreign Affairs"
     title: "My International Relations class meeting with Kristian Jensen, the former Danish Minister of Foreign Affairs"
   - url: /assets/images/gld3-human-rights.jpg
