@@ -4,6 +4,23 @@ categories:
   - insight
 tags:
   - insight
+gallery:
+  - url: /assets/images/gld3-parliament.jpg
+    image_path: /assets/images/gld3-parliament.jpg
+    alt: "My International Relations class meeting with Kristian Jensen, the former Danish Minister of Foreign Affairs"
+    title: "My International Relations class meeting with Kristian Jensen, the former Danish Minister of Foreign Affairs"
+  - url: /assets/images/gld3-human-rights.jpg
+    image_path: /assets/images/gld3-human-rights.jpg
+    alt: "My International Relations class meeting with Dr. Jens Modvig, the chair of the UN Committee Against Torture"
+    title: "My International Relations class meeting with Dr. Jens Modvig, the chair of the UN Committee Against Torture"
+  - url: /assets/images/gld3-institute.jpg
+    image_path: /assets/images/gld3-institute.jpg
+    alt: "Fellow students and I at the CIEE institute, with the Kultorvet in the background"
+    title: "Fellow students and I at the CIEE institute, with the Kultorvet in the background"
+  - url: /assets/images/gld3-tallinn.jpg
+    image_path: /assets/images/gld3-tallinn.jpg
+    alt: "Our program trip to Tallinn, Estonia"
+    title: "Our program trip to Tallinn, Estonia"
 ---
 <p>Growing up I had exposure to two languages, Danish and English, &nbsp;in the household, my dad was born and raised in Denmark and then moved here in the 1990s. Being bilingual has played a significant role in my life and how I view the rest of the world. While mostly everyone in Denmark speaks English fluently, there is something special about knowing the local language and fully immersing yourself in the culture. Denmark is a relatively small country and few speak the language outside of its borders. This desire to be more immersed led me to study abroad in Spring 2020 in Copenhagen, Denmark. My program there was The Council on International Educational Exchange (CIEE) which hosts American students and has instruction in English so the credits can transfer back to the US standard as European credits work differently. Studying abroad exposed me to systems and cultures that I was not familiar with having lived in the United States my entire life. Studying abroad made me more open-minded and immersed me in our global society.</p>
 <p>The feeling of moving to a new place is one that is both scary and exciting. We were housed in an upcoming area of Copenhagen called Sydhavn (&ldquo;South Harbor&rdquo;). Almost immediately I noticed the differences between American education norms and those there. For example, professors are not addressed by their last names but rather their first names. I took six classes over the course of the study abroad program but the most intriguing one was a class called Contemporary Controversies in International Relations which had a Danish-focused twist. The Danish perspective on world affairs is unique as it is a small country, but it also controls the foreign policy of Greenland. In the course, we went on an excursion to the Danish Parliament where we met with Aaja Chemnitz Larsen who is a Greenlandic politician. We got to discuss with her the future of Greenland&rsquo;s relationship with Denmark which had recently been in the headlines when former President Trump offered to purchase the territory. We learned about the unique connection that Greenland has with Denmark. Greenland is within the Kingdom of Denmark but it has political independence but relies on the Danish Government for its diplomatic and military affairs. Greenland has struggled with development due to its low population and limited economic opportunities, creating a reliance on economic assistance from Denmark. This experience was valuable as I got to learn about the functions of the Danish government, a connection to my Danish heritage. Most European governments use a parliamentary structure, which is different than the Executive and Legislative structure in the United States. The differences between these systems were covered in my POLI 481 Politics and Governments of Europe course where we examined governments in the United Kingdom, France, Germany, and elsewhere.</p>
